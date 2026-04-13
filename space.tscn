@@ -1,4 +1,4 @@
-[gd_scene format=3 uid="uid://dc48r3o2a3h3n"]
+[gd_scene format=3 uid="uid://ej76omctqltq"]
 
 [ext_resource type="Script" uid="uid://da1dnkf20tinv" path="res://addons/space_chunk_system/space.gd" id="1_dtwn4"]
 [ext_resource type="PackedScene" uid="uid://dxtenddefygd3" path="res://scenes/space_chunk.tscn" id="1_rysn1"]
